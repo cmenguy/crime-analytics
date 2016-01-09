@@ -7,3 +7,4 @@ fiona
 descartes
 shapely
 pysal
+seaborn
