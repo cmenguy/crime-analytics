@@ -1,1 +1,9 @@
-pyshp==1.2.3
+pandas
+numpy
+scipy
+matplotlib
+matplotlib-basemap
+fiona
+descartes
+shapely
+pysal
