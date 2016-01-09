@@ -2,7 +2,7 @@ pandas
 numpy
 scipy
 matplotlib
-matplotlib-basemap
+basemap
 fiona
 descartes
 shapely
